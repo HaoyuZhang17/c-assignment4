@@ -1,0 +1,14 @@
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/bin/Debug/net8.0/assignment-4-haoyu-zhang
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/bin/Debug/net8.0/assignment-4-haoyu-zhang.deps.json
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/bin/Debug/net8.0/assignment-4-haoyu-zhang.runtimeconfig.json
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/bin/Debug/net8.0/assignment-4-haoyu-zhang.dll
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/bin/Debug/net8.0/assignment-4-haoyu-zhang.pdb
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.AssemblyInfoInputs.cache
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.AssemblyInfo.cs
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.csproj.CoreCompileInputs.cache
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.dll
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/refint/assignment-4-haoyu-zhang.dll
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.pdb
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/assignment-4-haoyu-zhang.genruntimeconfig.cache
+/Users/haoyu/CPSC-1012/assignment-4-haoyu-zhang/assignment-4-haoyu-zhang/obj/Debug/net8.0/ref/assignment-4-haoyu-zhang.dll
